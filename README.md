@@ -2,7 +2,7 @@
 
 Welcome to the AI Projects Repository! 🤖
 
-This repository houses a collection of diverse and innovative Artificial Intelligence projects developed by [Your Name/Organization]. Explore cutting-edge solutions, implementations, and experiments across various AI domains.
+This repository houses a collection of diverse and innovative Artificial Intelligence projects developed by Uswa Mariam. Explore cutting-edge solutions, implementations, and experiments across various AI domains.
 
 ## Table of Contents
 
